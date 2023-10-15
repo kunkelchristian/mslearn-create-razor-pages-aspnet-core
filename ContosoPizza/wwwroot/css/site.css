@@ -20,3 +20,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.qrCode {
+  height: 50vb;
+  width: 50vh;
+}
